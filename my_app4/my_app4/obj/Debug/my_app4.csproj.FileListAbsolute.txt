@@ -1,0 +1,10 @@
+c:\users\hp\documents\visual studio 2015\Projects\my_app4\my_app4\bin\Debug\my_app4.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\my_app4\my_app4\bin\Debug\my_app4.exe
+c:\users\hp\documents\visual studio 2015\Projects\my_app4\my_app4\bin\Debug\my_app4.pdb
+c:\users\hp\documents\visual studio 2015\Projects\my_app4\my_app4\obj\Debug\my_app4.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\my_app4\my_app4\obj\Debug\my_app4.Form1.resources
+c:\users\hp\documents\visual studio 2015\Projects\my_app4\my_app4\obj\Debug\my_app4.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\my_app4\my_app4\obj\Debug\my_app4.WELCOME_IN.resources
+c:\users\hp\documents\visual studio 2015\Projects\my_app4\my_app4\obj\Debug\my_app4.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\my_app4\my_app4\obj\Debug\my_app4.exe
+c:\users\hp\documents\visual studio 2015\Projects\my_app4\my_app4\obj\Debug\my_app4.pdb
